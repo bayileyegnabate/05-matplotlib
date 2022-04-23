@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# extra files/folders
+tmp_pyber/
+matplotlib_practice.ipynb
+pyBer_rider_data.ipynb
 
 # C extensions
 *.so
