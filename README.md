@@ -13,6 +13,7 @@ we analyzed a local congressional Election results from Colorado Board of Elecct
     - Softwares/Tools: Anaconda Python 3.7.11, Jupyter Notebook, Terminal
 
 ## Results
+### PbBer summary 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -52,5 +53,9 @@ we analyzed a local congressional Election results from Colorado Board of Elecct
   </tbody>
 </table>
 
+![Multiple-line Chart](analysis/fares_by_citytype.jpg)
+
+
 ## Project summary
+ In summary ... 
 
