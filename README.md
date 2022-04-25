@@ -4,7 +4,7 @@
 We analyzed ride-sharing using two datasets using Pandas and Matplotlib in order to determine the rides, driver counts and fare for the different cities grouped by city type. 
 
 ### Main Goals of this Analysis:
-    - create a comprehencomprehensive da
+    - create a comprehensive dataset by merging two source datasets
     - determine the number of rides and drivers as well as fares for each city type
     - create a table that summarizes results by city type
     - create line chart showing total fares 
@@ -15,7 +15,7 @@ We analyzed ride-sharing using two datasets using Pandas and Matplotlib in order
 
 ## Results
 ### PyBer summary 
-The table bellow summarizes the ride-sharing data by city type. Acocriding to this result the **Rural Cities** have the least numbe of rides and highes average fare per ride, while **Urban Cities** have the highest total number of rides and the lowest average fare per ride. This seams to suggest that there is an inverse relationshio between fare and number of rides.
+The table bellow summarizes the ride-sharing data by city type. Acocriding to this result the **Rural Cities** have the least numbe of rides and highes average fare per ride, while **Urban Cities** have the highest total number of rides and the lowest average fare per ride. This seams to suggest that there is an inverse relationship between fare and number of rides. Rural cities also have the lowest number of drivers. 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
