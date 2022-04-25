@@ -1,11 +1,12 @@
 # PyBer Ride-Sharing Analysis
 
 ## Project Overview
-we analyzed a local congressional Election results from Colorado Board of Elecctions - 
+We analyzed ride-sharing using two datasets using Pandas and Matplotlib in order to determine the rides, driver counts and fare for the different cities grouped by city type. 
 
 ### Main Goals of this Analysis:
-    - merge two datasets
-    - summarize data by city type
+    - create a comprehencomprehensive da
+    - determine the number of rides and drivers as well as fares for each city type
+    - create a table that summarizes results by city type
     - create line chart showing total fares 
 
 ## Resources
@@ -13,7 +14,8 @@ we analyzed a local congressional Election results from Colorado Board of Elecct
     - Softwares/Tools: Anaconda Python 3.7.11, Jupyter Notebook, Terminal
 
 ## Results
-### PbBer summary 
+### PyBer summary 
+The table bellow summarizes the ride-sharing data by city type. Acocriding to this result the **Rural Cities** have the least numbe of rides and highes average fare per ride, while **Urban Cities** have the highest total number of rides and the lowest average fare per ride. This seams to suggest that there is an inverse relationshio between fare and number of rides.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -57,5 +59,5 @@ we analyzed a local congressional Election results from Colorado Board of Elecct
 
 
 ## Project summary
- In summary ... 
+ Based on the results of this analysis increasing the number of dirvers in rural cities could improve the number of rides and hence the revenue. 
 
